@@ -15,7 +15,7 @@ int partition(int arr[],  int low , int upp , int piv){
             arr[end] = temp;
             start++;
             end--;
-        }
+        } //Krishna is a doomer.
     }
     int k = start-1;
     arr[low-1] = arr[k];
